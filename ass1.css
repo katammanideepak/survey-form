@@ -1,0 +1,46 @@
+.box1{
+    background-color:white;
+    height:780px;
+    width:390px;
+    padding-left:20px;
+    
+   
+   
+   
+  
+}
+ 
+.select{
+    padding-right:310px;
+
+}
+.button{
+   margin-top:20px;
+    padding-left:163px;
+    padding-right:163px;
+    
+    background-color:rgb(3, 255, 3);
+
+}
+.text{
+    border-color: black;
+}
+.box{
+    background-color:rgb(8, 251, 8);
+    width:400px;
+    height:800px;
+    padding-left:10px;
+    padding-top:20px;
+    padding-right:20px;
+    margin-left:100px;
+    
+
+}
+
+
+/* .box{
+    margin:auto;
+    
+    height:auto;
+    
+} */
